@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://www.scottishhighdxp.com/about/school-overview" rel="preconnect"/>
+<link href="http://scottishhighdxp.com/admission/fee-structure" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -9,10 +9,10 @@
 <title>GARUDA4D: Situs Resmi & Terpercaya Paling Gacor Hari Ini</title>
 <meta name="title" content="GARUDA4D: Situs Resmi & Terpercaya Paling Gacor Hari Ini">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://www.scottishhighdxp.com/about/school-overview">
+<link rel="canonical" href="http://scottishhighdxp.com/admission/fee-structure">
 <link rel="amphtml" href="https://scott.jsonpatchjs.com/career.html">
-<link rel="alternate" hreflang="id-id" href="https://www.scottishhighdxp.com/about/school-overview"/>
-<link rel="alternate" hreflang="id" href="https://www.scottishhighdxp.com/about/school-overview"/>
+<link rel="alternate" hreflang="id-id" href="http://scottishhighdxp.com/admission/fee-structure"/>
+<link rel="alternate" hreflang="id" href="http://scottishhighdxp.com/admission/fee-structure"/>
 <meta name="publisher" content="GARUDA4D">
 <meta name="description" content="GARUDA4D pemasok situs resmi dengan game favorit. Nikmati layanan terbaik, proses deposit cepat, keamanan terjamin, dan menangkan kesempatan jp setiap hari.">
 <meta name="keywords" content="GARUDA4D, GARUDA4D LOGIN, GARUDA4D SLOT, GARUDA4D LINK, GARUDA4D RTP" />
@@ -20,12 +20,12 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="GARUDA4D: Situs Resmi & Terpercaya Paling Gacor Hari Ini">
 <meta name="twitter:description" content="GARUDA4D pemasok situs resmi dengan game favorit. Nikmati layanan terbaik, proses deposit cepat, keamanan terjamin, dan menangkan kesempatan jp setiap hari.">
-<meta name="twitter:url" content="https://www.scottishhighdxp.com/about/school-overview">
+<meta name="twitter:url" content="http://scottishhighdxp.com/admission/fee-structure">
 <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhhpyfcaku69uM44Upi8sIoTQJBRR3W0oWeb7gQ-yrXDhrHTyHMWF2s7IoNFmcIiCm8d4WR1L9_b5eJ31MNs9ipTOzmxSiIq2PoL_2LJKNKtogfix6hmYNQD37UCMJ4o21tNyKlBgcMvF-qoO7IGn6Y_aVdpjx7WpbEJhK0-VJ02_nPNQ_FSWj7dUiMOhG/s1024/b5dd41d3-f96d-4679-9bee-cf11e7ed0df9.jpeg">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="GARUDA4D">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://www.scottishhighdxp.com/about/school-overview">
+<meta property="og:url" content="http://scottishhighdxp.com/admission/fee-structure">
 <meta property="og:title" content="GARUDA4D: Situs Resmi & Terpercaya Paling Gacor Hari Ini">
 <meta property="og:description" content="GARUDA4D pemasok situs resmi dengan game favorit. Nikmati layanan terbaik, proses deposit cepat, keamanan terjamin, dan menangkan kesempatan jp setiap hari.">
 <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhhpyfcaku69uM44Upi8sIoTQJBRR3W0oWeb7gQ-yrXDhrHTyHMWF2s7IoNFmcIiCm8d4WR1L9_b5eJ31MNs9ipTOzmxSiIq2PoL_2LJKNKtogfix6hmYNQD37UCMJ4o21tNyKlBgcMvF-qoO7IGn6Y_aVdpjx7WpbEJhK0-VJ02_nPNQ_FSWj7dUiMOhG/s1024/b5dd41d3-f96d-4679-9bee-cf11e7ed0df9.jpeg">
@@ -692,13 +692,13 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "WebSite",
-      "@id": "https://www.scottishhighdxp.com/about/school-overview",
-      "url": "https://www.scottishhighdxp.com/about/school-overview",
+      "@id": "http://scottishhighdxp.com/admission/fee-structure",
+      "url": "http://scottishhighdxp.com/admission/fee-structure",
       "name": "GARUDA4D",
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://www.scottishhighdxp.com/about/school-overview?q={search_term_string}",
+        "target": "http://scottishhighdxp.com/admission/fee-structure?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
@@ -707,9 +707,9 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "Organization",
-      "@id": "https://www.scottishhighdxp.com/about/school-overview",
+      "@id": "http://scottishhighdxp.com/admission/fee-structure",
       "name": "GARUDA4D",
-      "url": "https://www.scottishhighdxp.com/about/school-overview",
+      "url": "http://scottishhighdxp.com/admission/fee-structure",
       "logo": {
         "@type": "ImageObject",
         "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXXkAY3lY9BHGT03obTN30x5OBA6KvJ2uYNw96f-tDX0pDqwW6hdmcow_eS9ab-QdvgS2UWhReK-HWx8M0MgFXhn48y6KAFtIFTQKUd1KafDsjoaWC7b_po5Llj0DFkXiDvdCD_H45rSy-1sVW-sYFFgZkVOOajDdzcKhnzOZF82NyZnVU1P_cGh0X-yqz/s600/unnamed%20(1).png"
@@ -726,12 +726,12 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "WebPage",
-      "@id": "https://www.scottishhighdxp.com/about/school-overview",
-      "url": "https://www.scottishhighdxp.com/about/school-overview",
+      "@id": "http://scottishhighdxp.com/admission/fee-structure",
+      "url": "http://scottishhighdxp.com/admission/fee-structure",
       "name": "GARUDA4D: Situs Resmi & Terpercaya Paling Gacor Hari Ini",
-      "isPartOf": { "@id": "https://www.scottishhighdxp.com/about/school-overview" },
-      "about": { "@id": "https://www.scottishhighdxp.com/about/school-overview" },
-      "breadcrumb": { "@id": "https://www.scottishhighdxp.com/about/school-overview" },
+      "isPartOf": { "@id": "http://scottishhighdxp.com/admission/fee-structure" },
+      "about": { "@id": "http://scottishhighdxp.com/admission/fee-structure" },
+      "breadcrumb": { "@id": "http://scottishhighdxp.com/admission/fee-structure" },
       "inLanguage": "id-ID"
     },
 
@@ -739,7 +739,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "Article",
-      "@id": "https://www.scottishhighdxp.com/about/school-overview",
+      "@id": "http://scottishhighdxp.com/admission/fee-structure",
       "headline": "GARUDA4D: Situs Resmi & Terpercaya Paling Gacor Hari Ini",
       "description": "GARUDA4D pemasok situs resmi dengan game favorit. Nikmati layanan terbaik, proses deposit cepat, keamanan terjamin, dan menangkan kesempatan jp setiap hari.",
       "image": {
@@ -752,8 +752,8 @@ digitalData.page.pageInfo.pageName = pageName;
         "@type": "Organization",
         "name": "GARUDA4D"
       },
-      "publisher": { "@id": "https://www.scottishhighdxp.com/about/school-overview" },
-      "mainEntityOfPage": { "@id": "https://www.scottishhighdxp.com/about/school-overview" },
+      "publisher": { "@id": "http://scottishhighdxp.com/admission/fee-structure" },
+      "mainEntityOfPage": { "@id": "http://scottishhighdxp.com/admission/fee-structure" },
       "inLanguage": "id-ID"
     },
 
@@ -761,43 +761,43 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "BreadcrumbList",
-      "@id": "https://www.scottishhighdxp.com/about/school-overview",
+      "@id": "http://scottishhighdxp.com/admission/fee-structure",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "GARUDA4D",
-          "item": "https://www.scottishhighdxp.com/about/school-overview"
+          "item": "http://scottishhighdxp.com/admission/fee-structure"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "GARUDA4D LOGIN",
-          "item": "https://www.scottishhighdxp.com/about/school-overview"
+          "item": "http://scottishhighdxp.com/admission/fee-structure"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "GARUDA4D DAFTAR",
-          "item": "https://www.scottishhighdxp.com/about/school-overview"
+          "item": "http://scottishhighdxp.com/admission/fee-structure"
         },
         {
           "@type": "ListItem",
           "position": 4,
           "name": "GARUDA4D SLOT",
-          "item": "https://www.scottishhighdxp.com/about/school-overview"
+          "item": "http://scottishhighdxp.com/admission/fee-structure"
         },
         {
           "@type": "ListItem",
           "position": 5,
           "name": "LINK GARUDA4D",
-          "item": "https://www.scottishhighdxp.com/about/school-overview"
+          "item": "http://scottishhighdxp.com/admission/fee-structure"
         },
         {
           "@type": "ListItem",
           "position": 6,
           "name": "GARUDA4D: Situs Resmi & Terpercaya Paling Gacor Hari Ini",
-          "item": "https://www.scottishhighdxp.com/about/school-overview"
+          "item": "http://scottishhighdxp.com/admission/fee-structure"
         }
       ]
     },
@@ -806,7 +806,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "FAQPage",
-      "@id": "https://www.scottishhighdxp.com/about/school-overview",
+      "@id": "http://scottishhighdxp.com/admission/fee-structure",
       "mainEntity": [
         {
           "@type": "Question",
@@ -855,11 +855,11 @@ digitalData.page.pageInfo.pageName = pageName;
 
     {
       "@type": "Product",
-      "@id": "https://www.scottishhighdxp.com/about/school-overview#product",
+      "@id": "http://scottishhighdxp.com/admission/fee-structure#product",
       "name": "GARUDA4D: Situs Resmi & Terpercaya Paling Gacor Hari Ini",
       "description": "GARUDA4D pemasok situs resmi dengan game favorit. Nikmati layanan terbaik, proses deposit cepat, keamanan terjamin, dan menangkan kesempatan jp setiap hari.",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhhpyfcaku69uM44Upi8sIoTQJBRR3W0oWeb7gQ-yrXDhrHTyHMWF2s7IoNFmcIiCm8d4WR1L9_b5eJ31MNs9ipTOzmxSiIq2PoL_2LJKNKtogfix6hmYNQD37UCMJ4o21tNyKlBgcMvF-qoO7IGn6Y_aVdpjx7WpbEJhK0-VJ02_nPNQ_FSWj7dUiMOhG/s1024/b5dd41d3-f96d-4679-9bee-cf11e7ed0df9.jpeg",
-      "brand": { "@id": "https://www.scottishhighdxp.com/about/school-overview" },
+      "brand": { "@id": "http://scottishhighdxp.com/admission/fee-structure" },
       "review": [
         {
           "@type": "Review",
@@ -1071,7 +1071,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="{{ai:nav_footer3}}" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="GARUDA4D" class="nv00-gnb-v4__logo" href="https://www.scottishhighdxp.com/about/school-overview">
+       <a an-ac="gnb" an-ca="navigation" an-la="{{ai:nav_footer3}}" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="GARUDA4D" class="nv00-gnb-v4__logo" href="http://scottishhighdxp.com/admission/fee-structure">
         <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXXkAY3lY9BHGT03obTN30x5OBA6KvJ2uYNw96f-tDX0pDqwW6hdmcow_eS9ab-QdvgS2UWhReK-HWx8M0MgFXhn48y6KAFtIFTQKUd1KafDsjoaWC7b_po5Llj0DFkXiDvdCD_H45rSy-1sVW-sYFFgZkVOOajDdzcKhnzOZF82NyZnVU1P_cGh0X-yqz/s600/unnamed%20(1).png" alt="" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1359,7 +1359,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             GARUDA4D
             </span>
@@ -1376,7 +1376,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              GARUDA4D LOGIN
             </span>
@@ -1390,7 +1390,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              GARUDA4D DAFTAR
             </span>
@@ -1404,7 +1404,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              GARUDA4D SLOT
             </span>
@@ -1418,7 +1418,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              LINK GARUDA4D
             </span>
@@ -1432,7 +1432,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SITUS GARUDA4D
             </span>
@@ -1473,10 +1473,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://www.scottishhighdxp.com/about/school-overview" href="https://scott.jsonpatchjs.com/career.html" role="menuitem">
+         <a data-linkinfo="http://scottishhighdxp.com/admission/fee-structure" href="https://scott.jsonpatchjs.com/career.html" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. GARUDA4D Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. GARUDA4D Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1499,7 +1499,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. GARUDA4D Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. GARUDA4D Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1549,14 +1549,14 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://www.scottishhighdxp.com/about/school-overview"
+              href="http://scottishhighdxp.com/admission/fee-structure"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.scottishhighdxp.com/about/school-overview'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='http://scottishhighdxp.com/admission/fee-structure'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1572,7 +1572,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="{{ai:nav_footer3}}" an-tr="nv00_gnb-product detail-account-account" aria-label="GARUDA4D" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="{{ai:nav_footer3}}" an-tr="nv00_gnb-product detail-account-account" aria-label="GARUDA4D" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
               GARUDA4D
             </a>
            </div>
@@ -1604,7 +1604,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.scottishhighdxp.com/about/school-overview" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="http://scottishhighdxp.com/admission/fee-structure" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2152,10 +2152,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://www.scottishhighdxp.com/about/school-overview" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="http://scottishhighdxp.com/admission/fee-structure" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://www.scottishhighdxp.com/about/school-overview" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="http://scottishhighdxp.com/admission/fee-structure" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2657,7 +2657,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.scottishhighdxp.com/about/school-overview">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="http://scottishhighdxp.com/admission/fee-structure">
              Add to cart
             </a>
            </div>
@@ -2817,7 +2817,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.scottishhighdxp.com/about/school-overview" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="http://scottishhighdxp.com/admission/fee-structure" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4212,7 +4212,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://www.scottishhighdxp.com/about/school-overview" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="http://scottishhighdxp.com/admission/fee-structure" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6442,32 +6442,32 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     GARUDA4D
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     GARUDA4D LOGIN
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     GARUDA4D DAFTAR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     GARUDA4D SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     LINK GARUDA4D
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     SITUS GARUDA4D
                   </a>
               </ul>
@@ -6491,37 +6491,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Program Referral
                   </a>
                 </li>
@@ -6547,37 +6547,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Live Chat 24/7
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6618,17 +6618,17 @@ digitalData.page.pageInfo.pageName = pageName;
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Program VIP
                   </a>
                 </li>
@@ -6655,22 +6655,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6694,22 +6694,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Tentang GARUDA4D
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Kenapa Pilih GARUDA4D
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://www.scottishhighdxp.com/about/school-overview">
+                  <a class="footer-category__link" href="http://scottishhighdxp.com/admission/fee-structure">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6729,7 +6729,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.scottishhighdxp.com/about/school-overview">
+            <a class="footer-language__anchor" href="http://scottishhighdxp.com/admission/fee-structure">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6737,7 +6737,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://www.scottishhighdxp.com/about/school-overview">
+            <a class="footer-language__anchor" href="http://scottishhighdxp.com/admission/fee-structure">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8080,7 +8080,7 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://www.scottishhighdxp.com/about/school-overview" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="http://scottishhighdxp.com/admission/fee-structure" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8361,7 +8361,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.scottishhighdxp.com/about/school-overview" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="http://scottishhighdxp.com/admission/fee-structure" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8384,7 +8384,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.scottishhighdxp.com/about/school-overview" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="http://scottishhighdxp.com/admission/fee-structure" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8462,11 +8462,11 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.scottishhighdxp.com/about/school-overview" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="http://scottishhighdxp.com/admission/fee-structure" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://www.scottishhighdxp.com/about/school-overview" role="button">
+        <a class="cta cta--contained cta--emphasis" href="http://scottishhighdxp.com/admission/fee-structure" role="button">
         </a>
        </div>
       </div>
@@ -8532,12 +8532,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.scottishhighdxp.com/about/school-overview" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="http://scottishhighdxp.com/admission/fee-structure" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.scottishhighdxp.com/about/school-overview" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="http://scottishhighdxp.com/admission/fee-structure" role="button">
            Yakin
           </a>
          </div>
@@ -8562,7 +8562,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.scottishhighdxp.com/about/school-overview">
+        <a class="cta cta--contained cta--emphasis" href="http://scottishhighdxp.com/admission/fee-structure">
          Best&auml;tigen
         </a>
        </div>
@@ -8585,7 +8585,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://www.scottishhighdxp.com/about/school-overview" title="">
+        <a class="cta cta--contained cta--emphasis" href="http://scottishhighdxp.com/admission/fee-structure" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -8636,12 +8636,12 @@ digitalData.page.pageInfo.pageName = pageName;
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://www.scottishhighdxp.com/about/school-overview" role="button">
+          <a class="cta cta--outlined cta--black" href="http://scottishhighdxp.com/admission/fee-structure" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.scottishhighdxp.com/about/school-overview" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="http://scottishhighdxp.com/admission/fee-structure" role="button">
            Yakin
           </a>
          </div>
